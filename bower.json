@@ -1,0 +1,8 @@
+{
+  "name": "jasmine-matcher-to-change",
+  "description": "A jasmine matcher to expect changes from one value to another",
+  "main": "dist/jasmine-matcher-to-change.js",
+  "version": "0.0.0",
+  "dependencies": {}
+}
+
