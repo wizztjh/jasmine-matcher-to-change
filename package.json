@@ -2,12 +2,15 @@
   "name": "jasmine-matcher-to-change",
   "version": "0.0.0",
   "dependencies": {},
-  "devDependencies" : {
+  "devDependencies": {
     "jasmine-node": "2.0",
-    "grunt" : "*",
+    "grunt": "*",
     "grunt-contrib-coffee": "*",
     "grunt-contrib-uglify": "*",
     "grunt-jasmine-node": "*",
-    "matchdep": "*"
+    "matchdep": "*",
+    "karma": "^0.12.17",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-jasmine": "^0.1.5"
   }
 }
